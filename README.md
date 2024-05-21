@@ -1,7 +1,7 @@
 # 激活码生成与计算
 
 ```
-pip install mysql-connector-python
+pip install mysql-connector-python dotenv
 ```
 
 ## 简化的模型

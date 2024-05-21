@@ -1,8 +1,6 @@
 import mysql.connector
 import uuid,os
 from dotenv import load_dotenv
-import json
-import time
 
 load_dotenv()
 
